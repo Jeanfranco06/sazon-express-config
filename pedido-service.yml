@@ -3,7 +3,7 @@
 
 restaurante:
   pedidos:
-    max-platos: 2
+    max-platos: 5
     pedidos-habilitados: true
-    tiempo-estimado-minutos: 15
-    mensaje: "Tu pedido express esta siendo preparado rapidamente"
+    tiempo-estimado-minutos: 20
+    mensaje: "Tu pedido esta siendo preparado"
