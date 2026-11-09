@@ -1,9 +1,4 @@
-# ==============================================================================
-# Sazón Express - Configuración Centralizada de Promociones
-# microservicio: promocion-service
-# ==============================================================================
-
-server:
+﻿server:
   port: 8083
 
 restaurante:

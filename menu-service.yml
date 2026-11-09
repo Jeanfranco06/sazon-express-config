@@ -1,14 +1,9 @@
-# ==============================================================================
-# Sazón Express - Configuración Centralizada de Menú
-# microservicio: menu-service
-# ==============================================================================
-
-server:
+﻿server:
   port: 8081
 
 restaurante:
   menu:
-    nombre: "Carta Sazón Express"
+    nombre: "Carta SazÃ³n Express"
     plato-destacado: "Lomo saltado"
     mensaje: "Disfruta nuestros sabores"
     mostrar-disponibles: true
