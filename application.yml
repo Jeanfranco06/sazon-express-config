@@ -1,0 +1,20 @@
+# ==============================================================================
+# Sazón Express - Configuración Global Compartida
+# application.yml gestionado en Git para todos los microservicios clientes
+# ==============================================================================
+
+info:
+  app:
+    name: "Sazón Express"
+    description: "Sistema gastronómico con microservicios y Spring Cloud Config"
+    version: "1.0.0"
+    author: "Sazón Express Team"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info,refresh"
+  endpoint:
+    health:
+      show-details: always

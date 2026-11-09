@@ -1,0 +1,14 @@
+# ==============================================================================
+# Sazón Express - Configuración Centralizada de Promociones
+# microservicio: promocion-service
+# ==============================================================================
+
+server:
+  port: 8083
+
+restaurante:
+  promociones:
+    habilitadas: true
+    descuento-porcentaje: 15
+    promocion-destacada: "Combo familiar"
+    mensaje: "Aprovecha nuestras promociones"
