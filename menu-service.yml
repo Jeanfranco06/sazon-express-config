@@ -4,6 +4,6 @@
 restaurante:
   menu:
     nombre: "Carta Sazon Express"
-    plato-destacado: "Ceviche clásico"
+    plato-destacado: "Lomo Saltado"
     mensaje: "Disfruta nuestros sabores"
     mostrar-disponibles: true
